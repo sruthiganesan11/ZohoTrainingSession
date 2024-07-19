@@ -8,7 +8,7 @@ public class Coins {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter total number of coins");
         int number = scanner.nextInt();
-        Integer coins[] = new Integer[number;
+        Integer coins[] = new Integer[number];
         int coinCounter[] = new int[coins.length];
 
         System.out.println("Enter the coins");
