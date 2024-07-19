@@ -13,7 +13,7 @@ public class Staircase {
             System.out.println("The number of ways to climb the staircase is 0.");
             return;
         }
-        
+
         int count[] = new int[stairs+1];
         count[0] = 1;
         count[1] = 1;
