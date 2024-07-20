@@ -49,3 +49,6 @@ public class Palindrome {
         scanner.close();
     }
 }
+
+
+//https://docs.google.com/forms/d/e/1FAIpQLScZ98mPHf_r3VyUAeoXczxUWEeTs7xWHZdk8cIuO0ELBpTjpg/viewform
